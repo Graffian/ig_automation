@@ -8,9 +8,6 @@ Track posts, comments, followers, and following for any Instagram account using 
 # 1. Install dependencies
 pip install -r requirements.txt
 
-# 2. Fill in your Instagram credentials & target accounts
-python main.py setup    # then edit config.json
-
 # 3. Run tracking (generates CSV reports automatically)
 python main.py track
 
@@ -51,8 +48,6 @@ Edit `config.json`:
 ## Usage
 
 ```bash
-# Verify config
-python main.py setup
 
 # One-time tracking (parallel, CSV reports auto-generated)
 python main.py track
