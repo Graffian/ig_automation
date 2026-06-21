@@ -1,0 +1,13 @@
+# Database (contains your tracking data)
+instagram_data.db
+
+
+# CSV reports
+reports/
+
+# Logs
+logs/
+
+# Python cache
+__pycache__/
+*.pyc

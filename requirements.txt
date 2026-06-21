@@ -1,0 +1,5 @@
+instagrapi>=2.0.0
+prettytable>=3.0.0
+schedule>=1.1.0
+colorama>=0.4.6
+playwright>=1.60.0
